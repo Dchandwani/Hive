@@ -1,2 +1,2 @@
 # Hive
-Analytis_with_hive
+Analytics_with_hive
